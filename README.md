@@ -7,13 +7,17 @@ I HATE legacy software. I hate bad software design. That I really do.
 Right now, I live deep in that legacy world. 
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
-Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of: "Yes, I heard it's not that good." Then he said, "We wanna tackle that. We need people who see the problem." --- Ok, I said. I want to help. 
+Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of. "Well? How do you like it here?". And I think I said something like "I have never seen anything that bad before, in 13 years of my Software-Engineering career". "Yes, I heard it's not that good." he said, pretty pragmatic about it. "We wanna tackle that. We need people who see the problem." --- Ok, I said. I want to help. 
 
 ### OH MY GOD ###
 
-Why did I say that? My opinion about that software is somewhere between "delete it" and "sue the creators"... Shall I stay and fight? WTF, I dont'know. 
-Shall I shake head and move on to something else? 
-I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
+Why did I say that? My opinion about that software is somewhere between "delete it" and "sue the creators"... Shall I stay and fight? YES! Tell you why.
+
+Could I just shake my head and move on to something else?  I could do that. But I would miss a huge story. 
+Everyone can produce good and clean code in a good and clean environment. We learn that fast.
+But.. somewhere in my belly I felt, that I would miss hell of a story, if i take the easy way out now.
+
+So I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
 
 I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
 
