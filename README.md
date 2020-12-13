@@ -7,7 +7,7 @@ I HATE legacy software. I hate bad software design. That I really do.
 Right now, I live deep in that legacy world. 
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
-Next thing I remember, I had a talk with my boss, and what can I say. They said they wanna tackle it. --- Ok, I said. I want to help. 
+Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of: "Yes, I heard it's not that good." Then he said, "We wanna tackle that. We need people who see the problem." --- Ok, I said. I want to help. 
 
 ### OH MY GOD ###
 
