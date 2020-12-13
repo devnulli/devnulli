@@ -8,7 +8,7 @@ Right now, I live deep in that legacy world.
 When I entered my current job, I was SHOCKED! Shall I stay and fight? Shall I shake head and move on to something else? 
 I chose the first option.
 
-I LOVE that In my current job, I currently have a huge change to go from full legacy to state of the art, and write down my experiences and stories I encounter on that road.
+I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed in that hell.
 BUT:
   - Will I succeed? Or will it break me?
   
