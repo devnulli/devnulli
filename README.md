@@ -7,7 +7,7 @@ I HATE legacy software. I hate bad software design. That I really do.
 Right now, I live deep in that legacy world. 
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
-Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of. "Well? How do you like it here?". And I think I said something like "I have never seen anything that bad before, in 13 years of my Software-Engineering career". "Yes, I heard it's not that good." he said, pretty pragmatic about it. "We wanna tackle that. We need people who see the problem." --- Ok, I said. I want to help. 
+Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of. "Well? How do you like it here?". And I think I said something like "I have never seen anything that bad before, in 13 years of my software-engineering career"...  "Yeh well, I heard it's not that good..." he said, pretty pragmatic about it. "Yes, we need to tackle that. We need people who see the problem." --- Ok, I said. I want to help.  (Mind: "WAIT.. YOU WANTED TO QUIT.. ARE YOU CRAZY?")
 
 ### OH MY GOD ###
 
@@ -20,6 +20,8 @@ But.. somewhere in my belly I felt, that I would miss hell of a story, if i take
 So I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
 
 I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
+
+## SO LET'S SEE ##
 
 Lets see what I will learn from this journey.
 
