@@ -19,10 +19,9 @@ BUT:
   
   - Will _that legacy system_ change me? Break me? Or will I change _that damn legacy software_? Turn around the wheel?
   
-  - Or will I be crucified by those developes and consultants who fear or fail to understand these concepts? Who now live pretty good of the cost, surreality, and inefficience, and damage they caused?
-    - Or worse? Make ME become a "dark side" programmer? One of them?
+  - Will I be crucified by those developes and consultants who fear or fail to understand these concepts? Who now live pretty good of the cost, surreality, and inefficience, and damage they caused? Or worse? Make ME become a "dark side" programmer? One of them?
   
-  - Time will tell.
+- Time will tell.
 
 - I think someday I'll write a book about that. Yeeees!
 
