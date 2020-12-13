@@ -24,7 +24,7 @@ BUT:
   
   - Time will tell.
 
-- I think someday I'll write a book about that. To safe others from fighting through that on their own.
+- I think someday I'll write a book about that. Yeeees!
 
 <!--
 **devnulli/devnulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
