@@ -5,11 +5,20 @@
 
 I HATE legacy software. I hate bad software design. That I really do. 
 Right now, I live deep in that legacy world. 
-When I entered my current job, I was SHOCKED! Shall I stay and fight? Shall I shake head and move on to something else? 
-I chose the first option.
+When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. 
 
-I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed in that hell.
-BUT:
+Next thing I remember, I had a talk with my boss, and what can I say. They said they wanna tackle it. --- Ok, I said. I want to help. 
+
+### OH MY GOD ###
+
+Why did I say that? My opinion about that software is somewhere between "delete it" and "sue the creators"... Shall I stay and fight? WTF, I dont'know. 
+Shall I shake head and move on to something else? 
+I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
+
+I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
+
+Lets see what I will learn from this journey.
+
   - Will I succeed? Or will it break me?
   
   - Will I be strong enough to battle that legacy pain creeping in my mind? Or will it zombify me, make me a legacy programmer as well.
