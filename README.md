@@ -13,13 +13,16 @@ Next thing I remember, I had a talk with my boss, and what can I say. He said so
 (Mind: "WAIT.. YOU WANTED TO QUIT.. ARE YOU CRAZY? HOW CAN YOU SAY THAT?? THEY WORK THAT WAY FOR YEARS, DECADES.. YOUR OUT OF YOUR LEAGUE MAN. WHAT THEY NEED IS CONSIDERING THERAPY!!")
 (Heart: "Yea. Sorry but I cant resist watching that story to the end.."")
 
-### OH MY GOD ###
+### Why didn't I just leave that nonsense? ###
 
-Why did I say that? My opinion about that software is somewhere between "delete it" and "sue the creators"... Shall I stay and fight? YES! Tell you why.
+It took me a while to realize what just happened. My opinion about that source code is somewhere between "time to put it to sleep" and "sue the creators"... Why should I stay and and fight to save that? Tell you why.
 
-Could I just shake my head and move on to something else?  I could do that. But I would miss a huge story. 
-Everyone can produce good and clean code in a good and clean environment. We learn that fast.
-But.. somewhere in my belly I felt, that I would miss hell of a story, if i take the easy way out now.
+Of course, I could just shake my head and move on to something else? I could do that. But I would miss a huge story. 
+**Everyone can produce good and clean code in a good and clean environment.** We learn that fast.
+**But..** somewhere in my belly I felt, that I would miss hell of a story, if I take the easy way out now. And a lot of learnings. 
+  - What excactly does that mean: **good and clean enviroment**
+  - Best way to learn that is to try and create one myself
+  - Not from scratch, but from hell.
 
 So I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
 
