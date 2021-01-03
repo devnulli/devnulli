@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
 
  ### What I do. ###
-Sometimes, I like to code some stuff, apart from work. Don't know why. I like coding to groovy music. It relaxes me. I like live-streaming when in code.
+Sometimes, I like to code some stuff, apart from work. Don't know why. I like coding live while playing groovy music. It relaxes me. 
 
 ### About my job ###
 I HATE legacy software. I hate bad software design. That I really do. 
