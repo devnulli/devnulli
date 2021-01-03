@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
 
  ### What I do. ###
-Sometimes, I like to code some stuff, apart from work. don't know why, I live coding live, to groovy music. It relaxes me.
+Sometimes, I like to code some stuff, apart from work. don't know why. I like coding live, to groovy music. With the impression of somebody watching (which doesnt happen, of courese). It relaxes me. 
 <img align="center" img src="http://streambadge.com/twitch/dark/spykeadelic.png" />
 
 ### About my job ###
