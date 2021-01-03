@@ -5,7 +5,7 @@
 
  ### What I do. ###
 Sometimes, I like to code some stuff, apart from work. Don't know why. I like coding live, to groovy music. With the impression of somebody watching (which is not the case, of course). It relaxes me. 
-<img align="center" img src="http://streambadge.com/twitch/dark/spykeadelic.png" />
+<a href="http://twitch.tv/spykeadelic"><img align="center" img src="http://streambadge.com/twitch/dark/spykeadelic.png" /></a>
 
 ### About my job ###
 I HATE legacy software. I hate bad software design. That I really do. 
