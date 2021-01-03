@@ -3,17 +3,24 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnulli&show_icons=true&include_all_commits=true&theme=radical" alt="devnullis github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
 
+ ### What I do. ###
+Sometimes, I like to code some stuff, apart from work. don't know why, I live coding live, to groovy music. It relaxes me.
+<img align="center" img src="http://streambadge.com/twitch/dark/spykeadelic.png" />
+
+### About my job ###
 I HATE legacy software. I hate bad software design. That I really do. 
-Right now, I live deep in that legacy world. 
+And that is, right now, why I live deep, deep in that legacy world. 
+
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
 Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of. "Well? How do you like it here?". And I think I said something like "I have never seen anything that bad before, in 13 years of my software-engineering career"...  and he kept on: "Yeh well, I heard it's not that good..." he said, pretty pragmatic about it. "Yes, we need to tackle that. We need people who see the problem." --- *Ok, I said. I want to help.* 
 
 ## Inner Monologue ##
-(Mind: "WAIT.. YOU WANTED TO QUIT.. ARE YOU CRAZY? HOW CAN YOU SAY THAT?? THEY WORK THAT WAY FOR YEARS, DECADES.. YOUR OUT OF YOUR LEAGUE MAN. WHAT THEY NEED IS CONSIDERING THERAPY!!")
+(Mind: "Wait.. You wanted to quit, and now.. are you crazy? They have been working that way for years, decades.. and you go there and tell them it sucks, and you can do better... don't you think your're out of your league. You should have just gone to a NORMAL software-company, with state-of-the-art standards..")
+
 (Heart: "Yea. Sorry but I cant resist watching that story to the end.."")
 
-### Why didn't I just leave that nonsense? ###
+### So, why didn't I just leave that nonsense? ###
 
 It took me a while to realize what just happened. My opinion about that source code is somewhere between "time to put it to sleep" and "sue the creators"... Why should I stay and and fight to save that? Tell you why.
 
@@ -28,7 +35,7 @@ So I chose the first option.. And I learned to love my job.  Not for the coding 
 
 I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
 
-## SO LET'S SEE ##
+## NOW LET'S SEE ##
 
 Lets see what I will learn from this journey.
 
