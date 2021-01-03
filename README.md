@@ -7,8 +7,9 @@
 Sometimes, I like to code some stuff, apart from work. Don't know why. I like coding live while playing groovy music. It relaxes me. 
 
 ### About my job ###
-I HATE legacy software. I hate bad software design. That I really do. 
-And that is, right now, why I live deep, deep in that legacy world. 
+I live for software architecture and software engineering. I've seen what great software architecture and requirements engineering are capable of, and would never want to live without that. As a result of that, I HATE legacy software. I hate bad software design. That I really do. 
+
+And that is where I work, right now, that is where I live. I live deep, deep in that legacy world. Trying to KILL it. BRUUAHAHA!!
 
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
