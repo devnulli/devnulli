@@ -20,20 +20,31 @@ Next thing I remember, I had a talk with my boss, and what can I say. He said so
 
 (Heart: "Yea. Sorry but I cant resist watching that story to the end.."")
 
-### So, why didn't I just leave that nonsense? ###
+### So, why didn't I just leave them to their nonsense? ###
 
-It took me a while to realize what just happened. My opinion about that source code is somewhere between "time to put it to sleep" and "sue the creators"... Why should I stay and and fight to save that? Tell you why.
+It took me a while to realize what just happened. My opinion about that source code is somewhere between "time to put it to sleep" and "burn it with fire"...
+All the waste of manpower and effort, just to keep that crazy machinery running? 
+Why should I stay and and fight to save that? 
 
-Of course, I could just shake my head and move on to something else? I could do that. But I would miss a huge story. 
+### Tell you why. ###
+
+Of course, I could just shake my head and move on to something else. I could do that. I already done that. But In THAT case, I would really miss a huge story. 
+
 **Everyone can produce good and clean code in a good and clean environment.** We learn that fast.
-**But..** somewhere in my belly I felt, that I would miss hell of a story, if I take the easy way out now. And a lot of learnings. 
-  - What excactly does that mean: **good and clean enviroment**
-  - Best way to learn that is to try and create one myself
-  - Not from scratch, but from hell.
 
-So I chose the first option.. And I learned to love my job.  Not for the coding (not yet). It's god damn legacy hell.. BUT:
+**But..** somewhere in my belly I felt, that they are serious. They really search for a way out. So if I take the easy way out, I miss the crazy way out. 
+And a lot of learnings:
 
-I LOVE that In my current job, I currently have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
+  - What excactly does that really mean, having a **good and clean enviroment**?
+  - The best way to learn that is to try and create one myself. 
+  - With people who never had that.
+  - And of course, **not from scratch, but from hell.**
+
+So I chose the first option.. And I learned to love my job. (DISCLAIMER: this is diverse). Not for the coding (not yet). It's god damn legacy hell.. dont get me started.
+
+BUT:
+
+I LOVE that In my current job, have a huge chance to try and move something big from full legacy to state of the art, and write down my experiences and stories I encounter on that road. A chance, I will never get again in my life. So. I stayed. 
 
 ## NOW LET'S SEE ##
 
