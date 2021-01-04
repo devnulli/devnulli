@@ -4,12 +4,21 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
 
  ### What I do. ###
-Sometimes, I like to code some stuff, apart from work. Don't know why. I like coding live while playing groovy music. It relaxes me. 
+Sometimes, I like to code things, apart from work. Don't know why. I like coding live while playing groovy music. It relaxes me.
+
+Formerly, I never did that. I had the full software engineering show at work, and I didn't have the feeling that I miss out any new technologies and such.
+
+Now, working with legacy systems, I mainly code things to keep in touch with the real world. (Docker Containers, Azure, SOLID, service architecture, keeping up to with VS, new design paradigms, new requirement engineering paradigms, CI, etc.)
+
+I almost never complete them, or have professional need for them, though. I mostly push it far enough to see if I understand, and then I move on.
 
 ### About my job ###
-I live for software architecture and software engineering. I've seen what great software architecture and requirements engineering are capable of, and would never want to live without that. As a result of that, I HATE legacy software. I hate bad software design. That I really do. 
+I always LIVED for software architecture and software engineering. I've seen what great software architecture and requirements engineering are capable of, and would never want to be without that. As a result of that, I HATE legacy software. I hate bad software design. That I really do. 
 
-And that is where I work, right now, that is where I live. I live deep, deep in that legacy world. Trying to KILL it. BRUUAHAHA!!
+So, ironically, where I work right now, that is hell for me. I live deep, deep in that legacy code world. I am determined to FIGHT IT and  KILL it. BRUUAHAHA!!
+My whole work is dedicated to transitioning from that legacy bullshit back to maintanability.
+
+## Why didn't you quit and work in a decent software house?
 
 When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
@@ -32,7 +41,7 @@ Of course, I could just shake my head and move on to something else. I could do 
 
 **Everyone can produce good and clean code in a good and clean environment.** We learn that fast.
 
-**But..** somewhere in my belly I felt, that they are serious. They really search for a way out. So if I take the easy way out, I miss the crazy way out. 
+**But..** somewhere in my belly I felt, that they are serious. They really search for a way out. **So if I take the easy way out, I miss the crazy way out.** 
 And a lot of learnings:
 
   - What excactly does that really mean, having a **good and clean enviroment**?
