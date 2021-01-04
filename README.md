@@ -18,16 +18,17 @@ I always LIVED for software architecture and software engineering. I've seen wha
 So, ironically, where I work right now, that is hell for me. I live deep, deep in that legacy code world. I am determined to FIGHT IT and  KILL it. BRUUAHAHA!!
 My whole work is dedicated to transitioning from that legacy bullshit back to maintanability.
 
-## Why didn't you quit and work in a decent software house?
+### Why didn't you quit and work in a decent software house? ###
 
-When I entered my current job, I was SHOCKED! When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
+When I entered my current job, I was :open_mouth: SHOCKED! :open_mouth: When I saw the first code lines, my first instinct was (literally) to stand up, and quit right away. I would never accept working in that environment. With that multi million € piece of worthless crap, sold as a success to the stakeholders...
 
 Next thing I remember, I had a talk with my boss, and what can I say. He said something in the effect of. "Well? How do you like it here?". And I think I said something like "I have never seen anything that bad before, in 13 years of my software-engineering career"...  and he kept on: "Yeh well, I heard it's not that good..." he said, pretty pragmatic about it. "Yes, we need to tackle that. We need people who see the problem." --- *Ok, I said. I want to help.* 
 
-## Inner Monologue ##
-(Mind: "Wait.. You wanted to quit, and now.. are you crazy? They have been working that way for years, decades.. and you go there and tell them it sucks, and you can do better... don't you think your're out of your league. You should have just gone to a NORMAL software-company, with state-of-the-art standards..")
+### Inner Monologue ###
 
-(Heart: "Yea. Sorry but I cant resist watching that story to the end.."")
+(:brain: "Wait.. You wanted to quit, and now.. are you crazy? They have been working that way for years, decades.. and you go there and tell them it sucks, and you can do better... don't you think your're out of your league. You should have just gone to a NORMAL software-company, with state-of-the-art standards..")
+
+(:heart: "Yea. Sorry but I cant resist watching that story to the end.."")
 
 ### So, why didn't I just leave them to their nonsense? ###
 
