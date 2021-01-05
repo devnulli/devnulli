@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
 
  ### What I do. ###
-Sometimes, I like to code things, apart from work. Don't know why. I like coding live while playing groovy music. It relaxes me.
+Sometimes, I like to code things, apart from work. I like coding them, sometimes even live, while playing groovy music. It relaxes me.
 
 Formerly, I never did that. I had the full software engineering show at work, and I didn't have the feeling that I miss out any new technologies and such.
 
