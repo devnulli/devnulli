@@ -64,8 +64,8 @@ Lets see what I will learn from this journey.
   
   - Will I be strong enough to battle that legacy pain creeping in my mind? Or will it zombify me, make me a legacy programmer as well.
     - Will I become slave to those processes and empty and inefficient word hulls??
-    - Will I become a messiaas? Not only Promising but only delivering an Island of happiness? A way out?
-    - Will they even listen?
+    - Will I be successful in delivering an first an Island of happiness, and then, away out?
+    - Will they even listen? 
   
   - Will _that legacy system_ change me? Break me? Or will I change _that damn legacy software_? Turn around the wheel?
   
