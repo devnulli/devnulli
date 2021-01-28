@@ -1,0 +1,64 @@
+  Take a look at this: a new idea!   .. lets call it:  "Managenent by SHIT USER STORY"
+  - I think its great, and it's completely compatible to your current landscape, be it organisational or technical
+
+
+*Management by "Shit User Story"*
+  
+ Recently I stumbled up the twitter account "shit user storys".. 
+	.. and i found out that those who completele hit me, thats when i thought were funny (heart, retweet, ... )
+	.. and those that didnt hit me, the boring ones
+	
+ After having a really huge laugh at some, of the storys, I thought, HA! I should show that to the person who is actually responsible for that shit...
+   oh wait!... thats a really great idea  - ... thats a really great idea.
+	
+ Considered that this would be a great form of improving ourselves.
+
+- Management by  SUS
+
+	
+	- make yourselve a system where _everyone_ can postulate a Shit User Story in form of:
+       as a
+          ....
+       i want to ..
+          ... <the opposite of what would help achieving a improvement> ...
+      so i can
+          ... <the opposite of what you want to achieve> ..
+          
+    - for example:
+	
+		as a
+			   Intranet User
+	    i want to..
+				have the home button on every intranet subsystem leading to a different home site
+	    so i can..
+				write myself a list of urls which home site i use for what.
+				
+	When you have that, just follow that cycle:
+
+    - Postulating Shit User Storys (short)
+    - pump up the Shit user storys by approval among the team
+      - like the hearts on twitter -
+    - bring them down 
+	- repost them periodically - to reevalute if they are still true
+
+- generally that would be completely compatible with whatever planning method you currenly have
+
+  - On Development Team Level, it could be like that
+  
+    - Adding the Shit User Story to the other planned improment KANBAN/Backlog
+    - Valuating the Items on the same board
+      - creates Managed Technical debt and optimal timing for solution
+      - acceptance of product owner
+    
+    - is completely compatible with present tool and processes
+      - wherever prioritising takes place, add the shit user storys
+      - 
+
+  - On Management Level, basically tha same, it could be like that
+
+  - Building an Anti-Backlog of organisational Shit-User Storys
+      - acceptance of management
+      - Valuate them along with planned organisational improvals
+      - pick the more valuable
+      - accelerate by reducing draft instead of increasing throttle
+ 
