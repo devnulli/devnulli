@@ -15,9 +15,10 @@ I almost never complete them, or have professional need for them, though. I most
 ### About my job ###
 I always LIVED for software architecture and software engineering. I've seen what great software architecture and requirements engineering are capable of, and would never want to be without that. As a result of that, I HATE legacy software. I hate bad software design. That I really do. 
 
-So, ironically, where I work right now, that is hell for me. I live deep, deep in that legacy code world. 
-My whole work is dedicated to pointing out a way, and then transitioning from that legacy back to maintanability. 
-My job is done when we have catched up with industry standard and state of the art. And that is a very exhausting, but rewarding task.
+So, ironically, where I work right now can be defined as deep, deep in that legacy code world.
+I work as a development lead and software architect for a company with a huge legacy problem, and my whole work is dedicated to pointing out a way, and then transitioning from that legacy back to maintanability. 
+
+My job is done when we have catched up with industry standard and state of the art. And that is a very exhausting, but rewarding task. Rewarding, because I learn a LOT about the essence of "how you do it right", by looking at what happened when you didn't.
 
 ### How did I get that job? - Why didn't I just quit and work in a modern software house? ###
 
