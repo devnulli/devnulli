@@ -30,7 +30,7 @@ Next thing I remember, I had a talk with my boss, and what can I say. He said so
 
 (:brain: "Wait.. You wanted to quit, and now.. are you crazy? They have been working that way for years, decades.. and you go there and tell them it sucks, and you can do better... don't you think your're out of your league. You should have just gone to a NORMAL software-company, with state-of-the-art standards..")
 
-(:heart: "Yea. Sorry but I cant resist watching that story to the end.."")
+(:heart: "Sorry but I cant resist watching that story to the end.."")
 
 ### Challenge accepted ###
 
