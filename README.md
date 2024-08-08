@@ -68,10 +68,10 @@ Our hero wakes up after a party night, with a new job. To work as software archi
 
 - Will he succeed? Or will it break hi,?
 - Will he be strong enough to battle that legacy pain creeping in my mind? Or will it zombify me, make me a legacy programmer as well.
-- Will he become slave to those processes and empty and inefficient word hulls??
-- Will he be successful in delivering an first an Island of happiness, and then, away out?
+- Will he become slave to those processes and submit to empty and inefficient workflows=
+- Will he be successful in delivering an first an Island of happiness, and then, away out, maybe even a Business Layer, maybe even DDD?
 - Will they even listen? 
-- Will _that legacy system_ change him? Break hoim? Or will he manage to turn around the wheel?
+- Will _that legacy system_ change him? Break him? Or will he manage to turn around the wheel?
 - Will he finally be crucified by those developes and consultants who fear or fail to understand these concepts? Who now live pretty good of the cost, surreality, and inefficience, and damage they caused? Or worse? Make HE become one of them?
   
 Yeeees! that book will rock!
