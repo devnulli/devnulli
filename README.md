@@ -1,8 +1,5 @@
 ## Hi there, I'm devnulli 👋.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devnulli&show_icons=true&include_all_commits=true&theme=radical" alt="devnullis github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnulli&layout=compact&theme=radical" />
-
  ### What I do. ###
 Sometimes, I like to code things, apart from work. I like coding them, sometimes even live, while playing groovy music. It relaxes me.
 
